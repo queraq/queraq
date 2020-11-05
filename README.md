@@ -32,6 +32,7 @@ I also love to participate at Data science competitions:
 ![](https://img.shields.io/badge/Code-CatBoost-informational?style=flat&logo=angular&logoColor=white&color=ffb600)
 ![](https://img.shields.io/badge/Tools-Dash-informational?style=flat&logo=airflow&logoColor=white&color=b3ff99)
 ![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=b3ff99)
+![](https://img.shields.io/badge/Tools-Poetry-informational?style=flat&logo=mongodb&logoColor=white&color=b3ff99)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=b3ff99)
 
 
